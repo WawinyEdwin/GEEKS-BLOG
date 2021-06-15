@@ -1,1 +1,1 @@
-# newRepo
+# BLOG SITE FOR MY CODE COMMUNITY
